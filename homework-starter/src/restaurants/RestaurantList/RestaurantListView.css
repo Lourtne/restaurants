@@ -1,0 +1,13 @@
+.restaurant-list-view {
+    margin: 30px 5%;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.error {
+    text-align: center;
+}
